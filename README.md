@@ -1,6 +1,12 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?text=JuHyeon&type=waving&fontSize=30&fontAlign=85&animation=twinkling&height=150&" />
 
+  <h3 align=center>✨ About Me ✨</h3>
+  <h4 align=center> FrontEnd Developer </h4>
+  <h4 align=center> Data Engineer </h4>
+  
+  <br/>
+  <br/>
 
 <h3 align=center>🛠 Tech Stack 🛠</h3>
 
@@ -29,15 +35,14 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+
+<br/>
 <br/>
 
-
-
-
-
-
-
-
-
+<h3 align=center>💡 Career 💡</h3>
+<h4 align=center> ChonNam National Univ </h4>
+<p  align=center> (2017.03 ~ 2022.02) </p>
+<h4 align=center> Samsung Software Academy for Youth 7th </h4>
+<p  align=center> (2022.01 ~ 2022.12) </p>
 
 </div>
